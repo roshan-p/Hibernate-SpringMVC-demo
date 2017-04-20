@@ -1,11 +1,11 @@
 ### Spring Boot - Hibernate Demo
-เป็นตัวอย่างการใช้ Spring Boot และ Hibernate แสดงผลผ่าน FreeMarker และ JSP
+This is an demonstration of using Spring Boot and Hibernate show result via FreeMarker และ JSP
 
-### ส่วนประกอบ
-- src/main/java/web เก็บ Application.java และ MyConroller.java
-- src/main/resources/application.properties เก็บ configuration ของระบบ
-- src/main/resources/templates เก็บ View ของ FreeMarker
-- src/main/webapp เก็บ View ของ JSP
+### Component
+- src/main/java/web keep Application.java and MyConroller.java
+- src/main/resources/application.properties keep configuration of the system
+- src/main/resources/templates keep View of FreeMarker
+- src/main/webapp keep View ของ JSP
 
-### การใช้งานผ่าน Spring Boot
+### Show result via  Spring Boot
 ใช้คำสั่ง mvn spring-boot:run
