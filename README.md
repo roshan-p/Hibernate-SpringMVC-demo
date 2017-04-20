@@ -8,4 +8,4 @@ This is an demonstration of using Spring Boot and Hibernate show result via Free
 - src/main/webapp keep View ของ JSP
 
 ### Show result via  Spring Boot
-ใช้คำสั่ง mvn spring-boot:run
+use command mvn spring-boot:run
